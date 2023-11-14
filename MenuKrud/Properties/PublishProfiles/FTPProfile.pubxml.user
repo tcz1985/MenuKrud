@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlUkjj8FIAUW5GRqx8KqkyAAAAAACAAAAAAAQZgAAAAEAACAAAADEMg5f1Qm5zQau9+RjpQMHUtz9Hp09GkGgHiS5Pa1GUgAAAAAOgAAAAAIAACAAAAAXlXFN0/2fF7ulSVJPcqY5157bogl/Xy1XSnco11Lf4SAAAAA/Im9Dd+Wf0Vfs8CJ61ydEETBDwMCad4NPe8LFpYLIu0AAAABc0wz+x4R4y2FG/A7i59XVnK7BQPGWPmg0RvRamlbMn9bG2IAp63ybqCicONbk1l/qx6VrmXyi0sBONlt+4JAL</EncryptedPassword>
+    <_PublishTargetUrl>ftp://DBCONTACTOKRUD.backup.somee.com/DBCONTACTOKRUD_MSSql_Database_Backup</_PublishTargetUrl>
+    <History>False|2023-06-02T20:19:35.4115982Z;</History>
+  </PropertyGroup>
+</Project>
